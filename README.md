@@ -26,7 +26,7 @@ Harvard CS50
 ## Coding Basics
 Python \
 C \
-C++ \
+C++
 
 ## Toolkits
 Numpy - Matrices computing \
@@ -37,7 +37,7 @@ Seaborn - Visualization \
 PyEcharts \
 Scikit Learn \
 Keras \
-Tensorflow \
+Tensorflow
 
 ## Machine Learning
 classification \
@@ -45,7 +45,7 @@ regression \
 clustering \
 dimension reduction \
 model selection \
-feature engineering \
+feature engineering
 
 ## Deep Learning
 artificial neural network \
@@ -54,7 +54,7 @@ artificial neural network \
   backpropagation (BP neural network) \
   optimization and regularization \
 CNN \
-RNN \
+RNN
 
 ## Reinforcement Learning
 
