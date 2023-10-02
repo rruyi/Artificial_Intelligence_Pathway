@@ -4,7 +4,7 @@ Learning Materials and Pathway of Artificial Intelligence (Machine Learning)
 ## Mathematics Basics
 - Mathematics
 - Linear Algebra \
-  https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/ 
+  https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
   - Reference
     Linear Algebra Done Right
 - Probabilistic/Random Process
@@ -24,42 +24,42 @@ Harvard CS50
 
 
 ## Coding Basics
-Python
-C
-C++
+Python \
+C \
+C++ \
 
 ## Toolkits
-Numpy - Matrices computing
-Scipy
-Pandas - Scientific data analysis
-Matplotlib - Visualization
-Seaborn - Visualization
-PyEcharts
-Scikit Learn
-Keras
-Tensorflow
+Numpy - Matrices computing \
+Scipy \
+Pandas - Scientific data analysis \
+Matplotlib - Visualization \
+Seaborn - Visualization \
+PyEcharts \
+Scikit Learn \
+Keras \
+Tensorflow \
 
 ## Machine Learning
-classification
-regression
-clustering
-dimension reduction
-model selection
-feature engineering
+classification \
+regression \
+clustering \
+dimension reduction \
+model selection \
+feature engineering \
 
 ## Deep Learning
-artificial neural network
-  loss function
-  activation function
-  backpropagation (BP neural network)
-  optimization and regularization
-CNN
-RNN
+artificial neural network \
+  loss function \
+  activation function \
+  backpropagation (BP neural network) \
+  optimization and regularization \
+CNN \
+RNN \
 
 ## Reinforcement Learning
 
 ## NLP
-Transformer
+Transformer \
 Transfer Learning
 
 ## CV
