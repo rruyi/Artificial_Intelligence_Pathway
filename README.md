@@ -2,10 +2,13 @@
 Learning Materials and Pathway of Artificial Intelligence (Machine Learning)
 
 ## Mathematics Basics
-Mathematics
-Linear Algebra
-Probabilistic
-Statistics
+- Mathematics
+- Linear Algebra\n
+  https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
+  /Reference/
+- Probabilistic
+  
+- Statistics
 
 ## Computer Science Basics
 Data Structure
@@ -26,6 +29,7 @@ Seaborn - Visualization
 PyEcharts
 Scikit Learn
 Keras
+Tensorflow
 
 ## Machine Learning
 classification
