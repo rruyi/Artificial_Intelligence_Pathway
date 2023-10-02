@@ -3,7 +3,7 @@ Learning Materials and Pathway of Artificial Intelligence (Machine Learning)
 
 ## Mathematics Basics
 - Mathematics
-- Linear Algebra\n
+- Linear Algebra
   https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
   /Reference/
 - Probabilistic
