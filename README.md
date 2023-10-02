@@ -3,21 +3,29 @@ Learning Materials and Pathway of Artificial Intelligence (Machine Learning)
 
 ## Mathematics Basics
 - Mathematics
-- Linear Algebra
-  https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
-  /Reference/
-- Probabilistic
-  
+- Linear Algebra \
+  https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/ \
+  - Reference
+    Linear Algebra Done Right
+- Probabilistic/Random Process
 - Statistics
+- Discrete Math
+- Convex Optimization
+  - Reference
+    Boyd
 
 ## Computer Science Basics
-Data Structure
-Operating System
-Computer Network
-Computer Architecture
+Data Structure \
+Operating System \
+Computer Network \
+Computer Architecture \
+https://inst.eecs.berkeley.edu/~cs61a/archives.html \
+Harvard CS50
+
 
 ## Coding Basics
 Python
+C
 C++
 
 ## Toolkits
